@@ -1,0 +1,11 @@
+*.svg
+*.stl
+*.png
+*.mp4
+
+model-???.scad
+
+.*.swp
+*.bak
+.*.lock~
+

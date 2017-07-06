@@ -1,4 +1,4 @@
 
 use <model.scad>;
 
-projection() model();
+projection() fidget_spinner();
